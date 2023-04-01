@@ -1,3 +1,5 @@
+package first_tasks;
+
 public class Third {
     public static void main(String[] args) {
         double a = 9.12;

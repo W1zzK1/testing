@@ -1,3 +1,5 @@
+package first_tasks;
+
 import java.util.Scanner;
 
 public class Second {
